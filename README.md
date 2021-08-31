@@ -7,7 +7,10 @@
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-#I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering
+
+
+
+- I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering
 - 👀 I’m interested in Programming, development and many more things
 - 💬 Ask me about Python, C++ and Data Structure and Algorithm
 - 🌱 I’m currently learning <strong> machince learning </strong>
