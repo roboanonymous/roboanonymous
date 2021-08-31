@@ -14,6 +14,15 @@
 
 
 
+**Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/roboanonymous)
+[![GitLab](icons/gitlab.png)](https://gitlab.com/roboanonymous)
+[![LinkedIn](icons/linkedin.png)]( https://www.linkedin.com/in/samyak-jain-9b7177170/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/_smyak_/)
+
+
+
 [linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roboanonymous.ravianandfbg)
