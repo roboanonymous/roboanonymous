@@ -10,6 +10,8 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roboanonymous)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roboanonymous)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
