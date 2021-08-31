@@ -4,7 +4,7 @@
   <br> I'm Samyak Jain :blush:<br>
   <br>I am Engineering Student and Coder :computer:<br>
   <br>
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="Coder GIF" width="200">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="Coder GIF" width="550">
  </abc>
 </h2> 
 
