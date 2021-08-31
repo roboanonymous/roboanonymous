@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**roboanonymous/roboanonymous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Hi I am Samyak Jain 👋
+##  I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering
+- 🌱 I’m currently learning machince learning
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: CAPTCHA means Completely Automated Public Turing Test to tell Computers and Humans Apart
+
+
+
+👔 [linkedin][linkedin]
+
+
+[linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
+
+
