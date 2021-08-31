@@ -19,8 +19,7 @@
 [![GitHub](Logo/25231.png)](https://github.com/roboanonymous)
 [![GitLab](Logo/Git-Icon-1788C.png)](https://gitlab.com/roboanonymous)
 [![LinkedIn](Logo/Linkedin-Logo.png)]( https://www.linkedin.com/in/samyak-jain-9b7177170/)
-[![Instagram](logo/insta.png)](https://www.instagram.com/_smyak_/)
-
+[![Instagram](Logo/insta.png)](https://www.instagram.com/_smyak_/)
 
 
 [linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
