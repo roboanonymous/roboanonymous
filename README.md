@@ -16,10 +16,10 @@
 
 **Social Media:**
 
-[![GitHub](Logo/25231.png)](https://github.com/roboanonymous)
-[![GitLab](Logo/Git-Icon-1788C.png)](https://gitlab.com/roboanonymous)
-[![LinkedIn](Logo/Linkedin-Logo.png)]( https://www.linkedin.com/in/samyak-jain-9b7177170/)
-[![Instagram](Logo/insta.png)](https://www.instagram.com/_smyak_/)
+[![GitHub]()](https://github.com/roboanonymous)
+[![GitLab]()](https://gitlab.com/roboanonymous)
+[![LinkedIn]()]( https://www.linkedin.com/in/samyak-jain-9b7177170/)
+[![Instagram]()](https://www.instagram.com/_smyak_/)
 
 
 [linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
