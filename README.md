@@ -17,19 +17,16 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][instagram]
+
 
 <br />
 
 
-**Social Media:**
-
-[![GitHub]()](https://github.com/roboanonymous)
-[![GitLab]()](https://gitlab.com/roboanonymous)
-[![LinkedIn]()]( https://www.linkedin.com/in/samyak-jain-9b7177170/)
-[![Instagram]()](https://www.instagram.com/_smyak_/)
-
-
 [linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
 [instagram]: https://www.instagram.com/_smyak_/
+[GitHub]: https://github.com/roboanonymous
+
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roboanonymous.ravianandfbg)
