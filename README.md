@@ -1,5 +1,12 @@
-### Hi I am Samyak Jain 👋
-##  I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering
+<h2 align="left">
+ <abc>
+  <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br> I'm Samyak Jain :blush:<br>
+  <br>I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering :computer:<br>
+  <br>
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+ </abc>
+</h2> 
 
 - 👀 I’m interested in Programming, development and many more things
 - 💬 Ask me about Python, C++ and Data Structure and Algorithm
