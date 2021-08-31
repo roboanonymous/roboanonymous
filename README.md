@@ -8,8 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: CAPTCHA means Completely Automated Public Turing Test to tell Computers and Humans Apart
 
-![Samyak's Github Stats](https://github-readme-stats.abhinav78910.vercel.app/api?username=abhinav12k&show_icons=true&include_all_commits=true&count_private=true&theme=default&show_icons=true&hide=prs)
-![Samyak's  GitHub stats](https://github-readme-stats.vercel.app/api?username=roboanonymous&show_icons=true&theme=Gradient&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
+
+![Samyak's  GitHub stats](https://github-readme-stats.vercel.app/api?username=roboanonymous&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show_icons=true&hide=prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roboanonymous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
