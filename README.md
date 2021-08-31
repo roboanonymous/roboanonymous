@@ -4,7 +4,7 @@
   <br> I'm Samyak Jain :blush:<br>
   <br>I am Engineering Student and Coder :computer:<br>
   <br>
-    <img src="http://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="Coder GIF" width="500">
+    <img src="https://camo.githubusercontent.com/f48a132a670e455f7874522f7b4e2c06854573e4aba97d0395b717a831ea25c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f64633534356535613066393363396232626631643466306166353465626266662f74656e6f722e676966" alt="Coder GIF" width="200">
  </abc>
 </h2> 
 
