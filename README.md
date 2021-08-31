@@ -9,8 +9,8 @@
 - ⚡ Fun fact: CAPTCHA means Completely Automated Public Turing Test to tell Computers and Humans Apart
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roboanonymous)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roboanonymous)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=roboanonymous&show_icons=true&theme=gradient&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roboanonymous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
