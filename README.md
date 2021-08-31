@@ -11,5 +11,5 @@
 
 
 [linkedin]: https://www.linkedin.com/in/samyak-jain-9b7177170/
-[Email] : jsamyak591@gmail.com
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=roboanonymous.ravianandfbg)
