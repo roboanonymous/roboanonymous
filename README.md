@@ -2,12 +2,12 @@
  <abc>
   <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Samyak Jain :blush:<br>
-  <br>I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering :computer:<br>
+  <br>I am Engineering Student and Coder :computer:<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
-
+#I am Student of BVCOE persuing my Btech in Instrumental and Control Engineering
 - 👀 I’m interested in Programming, development and many more things
 - 💬 Ask me about Python, C++ and Data Structure and Algorithm
 - 🌱 I’m currently learning <strong> machince learning </strong>
