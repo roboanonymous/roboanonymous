@@ -1,6 +1,6 @@
 <h2 align="left">
  <abc>
-  <br>Hola <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
+  <br>Hola <img src="https://media4.giphy.com/media/yxO8bvm9KKSpGPCBM8/giphy.gif?cid=ecf05e47bftt1e5b8hgfdqxwha676u8omqabe0naock64imf&rid=giphy.gif&ct=g" width="30"><br>
   <br> I'm Samyak Jain :blush:<br>
   <br>I am Engineering Student and Coder :computer:<br>
   <br>
