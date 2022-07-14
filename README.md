@@ -15,7 +15,6 @@
 - 💬 Ask me about Python, C++ and Data Structure and Algorithm
 - 🌱 I’m currently learning <strong> machine learning </strong>
 - 📫 How to reach me: 👔 [linkedin][linkedin] |  <a href = "mailto: jsamyak591@gmail.com">Personal Email</a>
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: CAPTCHA means Completely Automated Public Turing Test to tell Computers and Humans Apart
 
 
