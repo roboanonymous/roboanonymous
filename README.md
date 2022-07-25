@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Wipro**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [www.samyak.com](www.samyak.com)
 
