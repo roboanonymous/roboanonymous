@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [www.samyak.com](www.samyak.com)
-
 - 💬 Ask me about **Java, Machine Learning , Development**
 
 - 📫 How to reach me **jsamyak591@gmail.com**
