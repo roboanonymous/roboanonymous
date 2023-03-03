@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working in **Wipro**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Java, Machine Learning , Development**
 
 - 📫 How to reach me **jsamyak591@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zfbA-6losaYx1W3yUVXNlSuLI95PvpUI/view?usp=sharing](https://drive.google.com/file/d/1zfbA-6losaYx1W3yUVXNlSuLI95PvpUI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zfbA-6losaYx1W3yUVXNlSuLI95PvpUI/view?usp=sharing](https://drive.google.com/file/d/1WkEwGo4S4J3ORV50rNutYIKkEbIM9EW-/view?usp=sharing)
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
