@@ -1,4 +1,4 @@
-![Header](https://www.linkpicture.com/q/github-header-image-1.png)
+
 <h1 align="center">Hi 👋, I'm Samyak Jain</h1>
 <h3 align="center">A passionate developer from India</h3>
 
