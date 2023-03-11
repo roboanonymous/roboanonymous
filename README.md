@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **Wipro**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **Java, Machine Learning , Development**
 
