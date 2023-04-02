@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 💬 Ask me about **Java, Machine Learning , Development**
+- 💬 Ask me about **Java, SpringBoot ,REST API**
 
 - 📫 How to reach me **jsamyak591@gmail.com**
 
